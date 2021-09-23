@@ -35,7 +35,7 @@
 - Docker
 - Kubernetes
 - AWS
-#### Architectures and Design Patterns:
+#### Architectures and Design Techniques:
 - Microservice Architecture
 - Test driven Development
 #### Miscellaneous familiarity:
