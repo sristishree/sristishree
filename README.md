@@ -5,7 +5,7 @@
 <p align="center"><img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" /></p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sristishree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sristishree/)](https://www.linkedin.com/in/sristishree/)
+[![Linkedin Badge](https://img.shields.io/badge/-sristi-shree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sristi-shree/)](https://www.linkedin.com/in/sristi-shree/)
 [![Gmail Badge](https://img.shields.io/badge/-enggsristi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enggsristi@gmail.com)](mailto:enggsristi@gmail.com)
 
 ---
