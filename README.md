@@ -1,7 +1,7 @@
 ### Python Developer | Machine Learning Enthusiast
 नमस्ते, I'm Sristi Shree! 🙏   
 
-<p>I'm currently working as Software Developer at <strong><a href="https://www.microland.com/">Microland Ltd</a></strong>, based in India. I also like to work on side projects for learning new stuff and to be better at what I do. I am always open to new ideas and opportunities.</p>
+<p>I'm currently working as Software Engineer at <strong><a href="https://karza.in/">Karza Technologies</a></strong>, based in India. I also like to work on side projects for learning new stuff and to be better at what I do. I am always open to new ideas and opportunities.</p>
 <p align="center"><img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" /></p>
 
 
