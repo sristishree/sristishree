@@ -1,7 +1,7 @@
 ### Python Developer | Machine Learning Enthusiast
 नमस्ते, I'm Sristi Shree! 🙏   
 
-<p>I'm currently working as Senior Data Scientist at <strong><a href="https://www.perfios.com/index.php">Perfios</a></strong>, based in India. I am currently working with different open source and proprietary Large Language Models. I also like to work on side projects for learning new stuff and to be better at what I do. I am always open to new ideas and opportunities.</p>
+<p>I'm currently working as Senior Data Scientist at <strong><a href="https://www.perfios.com/index.php">Perfios</a></strong>, based in India. I am working with different open source and proprietary Large Language Models. I am also working on creating a unified LLM provider platform. I also like to work on side projects for learning new stuff and to be better at what I do. I am always open to new ideas and opportunities.</p>
 <p align="center"><img src="https://miro.medium.com/max/640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" /></p>
 
 
@@ -10,27 +10,25 @@
 
 ---
 ### Quick Facts
-- 👀 I’m interested in Machine Learning, Backend Development and AR/VR
 - 📙 I mostly work in Python
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently working with LLMS
 - 👨‍💻 Most of my personal side projects are available on Github.
 - 📝 Feel free to have a look at my repositories, raise issues, submit PRs and get in touch with me  
 
 ---
 ### Here are some technologies, tools, libraries and frameworks I use
-#### Backend:
-- Python Django RF
-- Familiar with Fastify and Express
-#### Frontend:
-- ReactJS
 #### Database:
 - PostgreSQL
 - MongoDB
-#### Machine Learning:
-- Keras
-- SciKit-Learn
-- Pandas
-- Matplotlib
+#### NLP and LLMs:
+- Langchain
+- Langgraph
+- Transformers
+- BERT
+- Prompt Engineering
+- LLM Evaluation
+- SLMs fine tuning
+- ETL Pipelines
 #### DevOps:
 - Docker
 - Kubernetes
