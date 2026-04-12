@@ -6,7 +6,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sristishree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sristi-shree/)](https://www.linkedin.com/in/sristi-shree/)
-[![Gmail Badge](https://img.shields.io/badge/-enggsristi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enggsristi@gmail.com)](mailto:enggsristi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-enggsristi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sristishree1@gmail.com)](mailto:sristishree1@gmail.com)
 
 ---
 ### Quick Facts
